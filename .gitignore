@@ -1,3 +1,8 @@
+# General files
+.idea
+.DS_Store
+.gitignore
+
 # Gradle files
 .gradle/
 build/
